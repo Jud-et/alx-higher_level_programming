@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 #import the add function
-from add_0 import add
+import add_0 
 #define variables
 a = 1
 b = 2
