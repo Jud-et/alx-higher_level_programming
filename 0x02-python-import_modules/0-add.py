@@ -1,7 +1,8 @@
 #!/usr/bin/python3
 
 #import the add function
-import add_0 
+from add_o import add
+if __name__ == '__main__'
 #define variables
 a = 1
 b = 2
