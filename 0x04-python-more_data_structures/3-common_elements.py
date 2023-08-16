@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-ef common_elements(set_1, set_2):
+def common_elements(set_1, set_2):
     # Create an empty set to store common elements
     common_set = set()
 
@@ -10,4 +10,3 @@ ef common_elements(set_1, set_2):
             common_set.add(item)
 
     return common_set
-
